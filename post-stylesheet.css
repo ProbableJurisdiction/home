@@ -1,0 +1,63 @@
+div.padding {
+  padding-top: 20px;
+  padding-right: 300px;
+  padding-bottom: 20px;
+  padding-left: 300px;
+}
+
+@media screen and (max-width: 600px) {
+  div.padding {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+}
+
+@font-face {
+  font-family: "cheltenham";
+  src: url("/home/cheltenham-cond-normal-700.ttf");
+}
+
+a {
+  color: blue;
+}
+
+a:visited {
+  color: blue;
+}
+
+h1 {
+  font-size: 48px;
+  font-family: "cheltenham";
+}
+
+h2 {
+  font-size: 36px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 24px;
+}
+
+blockquote {
+  font-size: 24px;
+}
+
+ul {
+  font-size: 24px;
+}
+
+ol {
+  font-size: 24px;
+}
+
+li {
+  font-size: 24px;
+}
+
+tr {
+  font-size: 24px;
+}
