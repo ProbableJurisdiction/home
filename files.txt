@@ -57,4 +57,4 @@ files/2020-election-litigation/trump-campaign-lawsuits/wisconsin/chron/2020-12-0
 files/2020-election-litigation/trump-campaign-lawsuits/wisconsin/chron/2020-12-01-3-trump-appendix-to-petition.pdf
 files/2020-election-litigation/trump-campaign-lawsuits/wisconsin/chron/2020-12-02-complaint-ed-wi.pdf
 files/2020-election-litigation/trump-campaign-lawsuits/wisconsin/chron/2020-12-03-trump-v-evers-wi-sup-ct-denial-of-petition-for-original-action.pdf
--
+--
